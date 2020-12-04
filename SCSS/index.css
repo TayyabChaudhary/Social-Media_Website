@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #efefef !important;
+}
+
+.jsjhr .skfjh {
+  position: relative;
+  top: 4rem;
+}
+
+.jsjhr .skfjh .sfjhe {
+  background-color: #fff;
+  padding: 12px;
+  -webkit-box-shadow: 0px 0px 6px #ccc;
+          box-shadow: 0px 0px 6px #ccc;
+  height: 100%;
+}
+
+.jsjhr .skfjh .sfjhe .sjfsj img {
+  width: 140px;
+  margin-top: 9px;
+  border-radius: 50%;
+  margin-left: 8px;
+}
+
+.jsjhr .skfjh .sfjhe h5 {
+  font-size: 16px;
+}
+
+.jsjhr .skfjh .jfheuf {
+  background-color: #fff;
+  -webkit-box-shadow: 0px 0px 6px #ccc;
+          box-shadow: 0px 0px 6px #ccc;
+  padding: 34px;
+}
+
+.jsjhr .skfjh .jfheuf textarea {
+  border: navajowhite;
+  border-bottom: 1px solid #efefef;
+  outline: navajowhite;
+}
+
+.jsjhr .skfjh .box1 {
+  background-color: #fff;
+  -webkit-box-shadow: 0px 0px 6px #ccc;
+          box-shadow: 0px 0px 6px #ccc;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.jsjhr .skfjh .box1 .skfjkk .lkt40 img {
+  width: 33px;
+  border-radius: 50%;
+  height: 33px;
+}
+
+.jsjhr .skfjh .left_box {
+  background-color: #fff;
+  -webkit-box-shadow: 0px 0px 6px #ccc;
+          box-shadow: 0px 0px 6px #ccc;
+  padding: 34px;
+}
+
+.jsjhr .skfjh .left_box .dfkj .lkt40 img {
+  width: 30px;
+  border-radius: 50%;
+  height: 30px;
+  margin-right: 10px;
+}
+/*# sourceMappingURL=index.css.map */
